@@ -1,7 +1,6 @@
-##Leetcode Weekly Contest 195
-###1496. Path Crossing
-
-    ```
+#Leetcode Weekly Contest 195
+##1496. Path Crossing
+```
     class Solution {
         public boolean isPathCrossing(String path) {
             char[] array = path.toCharArray();
